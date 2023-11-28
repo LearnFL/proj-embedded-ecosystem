@@ -12,8 +12,8 @@ const int ALGIE_RED = 26;
 const int ALGIE_GREEN = 27;
 const int ALGIE_BLUE = 28;
 
-int algie_delay = 1500;     
-int lightning_delay = 200;      
+// int algie_delay = 1500;     
+// int lightning_delay = 200;      
 
 void setup() {
   pinMode(CLOUD_WHITE_1, OUTPUT);
