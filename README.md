@@ -6,7 +6,7 @@
 A shoe box, sea shells, sand, hot glue, paper, acrylic paint, leds, Raspberry pi Pico, buck converter etc.
 
 ### Video
-![YouTube](https://youtu.be/TBGJjbZYT0s)
+[YouTube](https://youtu.be/TBGJjbZYT0s)
 
 ### Screenshots
 ![IMG_3688](https://github.com/LearnFL/proj-embedded-ecosystem/assets/86169204/aae9cb59-34e3-4691-aa74-97b1b4f853d4)
